@@ -12,3 +12,4 @@
 ## Testnets
 - [Quicksilver](https://testnet.explorer.testnet.run/Quicksilver/staking/quickvaloper1w86wytk7n0hzr8yyjdhxrgwc4j3dgdyr3tgy4h)
 - [Stafi Hub](https://testnet-explorer.stafihub.io/stafi-hub-testnet/staking/stafivaloper1rgax77x5tv46t7uvrwsl8ahg8hapnsqdeyejtg)
+- [Agoric (agoricdev-13)](https://devnet.explorer.agoric.net/agoric/staking/agoricvaloper1unchtu6y9ll75tv9fr7z6x2exufc4xtar8terz)
