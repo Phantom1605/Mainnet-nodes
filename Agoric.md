@@ -15,10 +15,9 @@
 ### Servers Login
 All servers are set to multi-factor login mode. Google 2FA + SSH key.
 #### tmkms server
-1)On this diagram you can see that tmkms server uses Software Signing Provider,but in about 1 month YubiHSM 2 device delivery will come to me.  
-Here is how to setup [YubiHSM 2 + Tendermint KMS](https://github.com/iqlusioninc/tmkms/blob/main/README.yubihsm.md) protection.
+1)On this diagram you can see that tmkms server uses Software Signing Provider.
 
 #### 5 Sentry Nodes
 I believe that 5 sentry nodes is the optimal number to resist DDoS attacks.
 #### Validator node
-It should be borne in mind that when the validator is working together with the tmkms server, the priv_validator_key.json is missing on the node with the validator. It is located on tmkms (with Software Signing Provider) or even located on HSM (with Hardware Security Modules, such as YubiHSM2)
+It should be borne in mind that when the validator is working together with the tmkms server, the `priv_validator_key.json` is missing on the node with the validator. It is located on tmkms with Software Signing Provider.
