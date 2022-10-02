@@ -10,6 +10,6 @@
 - My Agoric Validator: https://main.explorer.agoric.net/validator/40CAC6FEA1F56A39E7EF3ACF47535A21681C30AF
 
 ## Testnets
-- [Quicksilver](https://testnet.explorer.testnet.run/Quicksilver/staking/quickvaloper1w86wytk7n0hzr8yyjdhxrgwc4j3dgdyr3tgy4h)
-- [Stafi Hub](https://testnet-explorer.stafihub.io/stafi-hub-testnet/staking/stafivaloper1rgax77x5tv46t7uvrwsl8ahg8hapnsqdeyejtg)
-- [Agoric (agoricdev-13)](https://devnet.explorer.agoric.net/agoric/staking/agoricvaloper1unchtu6y9ll75tv9fr7z6x2exufc4xtar8terz)
+- [Sei](https://sei.explorers.guru/validator/seivaloper14vhlj7ltngzq87c3zv90pdeg3stxvk026g739l)
+- [Source](https://explorer.testnet.sourceprotocol.io/source/staking/sourcevaloper1e0ke3v46yd8gzvwfpr0yk7cwl93tpft78w6arv)
+- [HiperSign](https://explorer.kjnodes.com/hypersign/staking/hidvaloper1g9p37uequlnyya3elns640yjs6e78evycpzuz7)
