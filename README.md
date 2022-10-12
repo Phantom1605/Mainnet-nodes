@@ -13,3 +13,5 @@
 - [Sei](https://sei.explorers.guru/validator/seivaloper14vhlj7ltngzq87c3zv90pdeg3stxvk026g739l)
 - [Source](https://explorer.testnet.sourceprotocol.io/source/staking/sourcevaloper1e0ke3v46yd8gzvwfpr0yk7cwl93tpft78w6arv)
 - [HiperSign](https://explorer.kjnodes.com/hypersign/staking/hidvaloper1g9p37uequlnyya3elns640yjs6e78evycpzuz7)
+- [HAQQ](https://testnet.manticore.team/haqq/staking/haqqvaloper1ay2m5y0fctfxrwm8ujfyw0dzgygra4lp4rcrts)
+- [Empower](https://testnet.ping.pub/empower/staking/empowervaloper1cnrxp6fvetr4vx0z5uv368u2jhck8gdjluy3ce)
