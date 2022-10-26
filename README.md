@@ -15,3 +15,4 @@
 - [HiperSign](https://explorer.kjnodes.com/hypersign/staking/hidvaloper1g9p37uequlnyya3elns640yjs6e78evycpzuz7)
 - [HAQQ](https://testnet.manticore.team/haqq/staking/haqqvaloper1ay2m5y0fctfxrwm8ujfyw0dzgygra4lp4rcrts)
 - [Empower](https://testnet.ping.pub/empower/staking/empowervaloper1cnrxp6fvetr4vx0z5uv368u2jhck8gdjluy3ce)
+- [OLLO](https://ollo.explorers.guru/validator/ollovaloper1dx6f008q2jc2wdqchd6pwmf0qyy2g4vrnqkkz9)
